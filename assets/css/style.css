@@ -68,14 +68,14 @@ h3, h2 {
 }
 
 /* portfolio page */
-.work
-{.auth-image {
+.work{
   float: left;
   width: 200px;
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
 }
+
 
 .test {
   position: relative;
